@@ -156,6 +156,10 @@ body{
   background-color: var(--neutral-90);
 }
 
+::-webkit-scrollbar-thumb{
+  background-color: var(--neutral-60);
+}
+
 
 /*-----------------------------------*\
   #TYPOGRAPHY
