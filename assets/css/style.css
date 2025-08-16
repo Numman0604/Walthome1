@@ -134,6 +134,12 @@ select{
   -webkit-appearance: none;
   -moz-appearance: none;
 }
+
+html{
+  font-family: var(--font-primary);
+}
+
+
 /*-----------------------------------*\
   #TYPOGRAPHY
 \*-----------------------------------*/
