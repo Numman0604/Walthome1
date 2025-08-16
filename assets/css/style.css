@@ -141,6 +141,10 @@ html{
   scroll-behavior: smooth;
 }
 
+body{
+  background-color: var(--neutral-98);
+}
+
 
 /*-----------------------------------*\
   #TYPOGRAPHY
