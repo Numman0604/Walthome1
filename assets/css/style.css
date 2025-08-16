@@ -119,6 +119,11 @@ input,button,select{
 button{
   cursor: pointer;
 }
+
+input,select{
+  outline: none;
+  width: 100%;
+}
 /*-----------------------------------*\
   #TYPOGRAPHY
 \*-----------------------------------*/
