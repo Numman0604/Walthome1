@@ -62,6 +62,9 @@
   --weight-bold: 700;
   --weight-semiBold: 600;
   --weight-regular: 400;
+
+  --traking-n-025: -0.25px;
+  --traking-p-05: 0.5px;
 }
 
 /*-----------------------------------*\
