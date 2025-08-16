@@ -58,6 +58,10 @@
   --lh-body-medium: 24px;
   --lh-label-large: 24px;
   --lh-label-medium: 20px;
+
+  --weight-bold: 700;
+  --weight-semiBold: 600;
+  --weight-regular: 400;
 }
 
 /*-----------------------------------*\
