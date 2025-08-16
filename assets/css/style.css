@@ -115,6 +115,10 @@ input,button,select{
   border: none;
   font: inherit;
 }
+
+button{
+  cursor: pointer;
+}
 /*-----------------------------------*\
   #TYPOGRAPHY
 \*-----------------------------------*/
