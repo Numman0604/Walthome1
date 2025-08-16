@@ -109,6 +109,12 @@ a{
 img{
   height: auto;
 }
+
+input,button,select{
+  background: none;
+  border: none;
+  font: inherit;
+}
 /*-----------------------------------*\
   #TYPOGRAPHY
 \*-----------------------------------*/
