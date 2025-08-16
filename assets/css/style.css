@@ -101,6 +101,10 @@ a,img,span,input,button,select{
   display: block;
 }
 
+a{
+  color: inherit;
+}
+
 /*-----------------------------------*\
   #TYPOGRAPHY
 \*-----------------------------------*/
