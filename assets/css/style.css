@@ -148,6 +148,14 @@ body{
   line-height: var(--lh-body-medium);
 }
 
+::-webkit-scrollbar{
+  width: 12px;
+}
+
+::-webkit-scrollbar-track{
+  background-color: var(--neutral-90);
+}
+
 
 /*-----------------------------------*\
   #TYPOGRAPHY
