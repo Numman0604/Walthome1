@@ -138,6 +138,7 @@ select{
 html{
   font-family: var(--font-primary);
   font-size: var(--fs-base);
+  scroll-behavior: smooth;
 }
 
 
