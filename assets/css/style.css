@@ -144,6 +144,7 @@ html{
 body{
   background-color: var(--neutral-98);
   color: var(--neutral-5);
+  font-size: var(--fs-body-medium);
 }
 
 
