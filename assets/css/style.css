@@ -273,6 +273,10 @@ body{
   box-shadow: var(--shadow-1);
 }
 
+.btn-fill:where(:active, :focus-visible){
+  background-color: var(--primary-80);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
