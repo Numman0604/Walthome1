@@ -214,6 +214,12 @@ body{
   font-weight: var(--weight-regular);
 }
 
+.body-small{
+  font-size: var(--fs-body-small);
+  line-height: var(--lh-body-small);
+  font-weight: var(--weight-regular);
+}
+
 
 
 
