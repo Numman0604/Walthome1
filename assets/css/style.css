@@ -208,6 +208,12 @@ body{
   font-weight: var(--weight-regular);
 }
 
+.body-medium{
+  font-size: var(--fs-body-medium);
+  line-height: var(--lh-body-medium);
+  font-weight: var(--weight-regular);
+}
+
 
 
 
