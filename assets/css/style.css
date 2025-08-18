@@ -218,6 +218,7 @@ body{
   font-size: var(--fs-label-medium);
   line-height: var(--lh-label-medium);
   font-weight: var(--weight-semiBold);
+  letter-spacing: var(--traking-p-05);
 }
 
 
