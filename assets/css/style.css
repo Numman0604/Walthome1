@@ -179,7 +179,7 @@ body{
   font-weight: var(--weight-bold);
 }
 
-.headline-medium{
+.headline-small{
   font-size: var(--fs-headline-small);
   line-height: var(--lh-headline-small);
   font-weight: var(--weight-bold);
