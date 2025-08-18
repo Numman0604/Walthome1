@@ -230,6 +230,8 @@ body{
 
 .material-symbols-rounded{
   display: block;
+  width: 1em;
+  height: 1em;
 }
 
 /*-----------------------------------*\
