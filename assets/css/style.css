@@ -177,8 +177,14 @@ body{
   font-size: var(--fs-headline-medium);
   line-height: var(--lh-headline-medium);
   font-weight: var(--weight-bold);
-  letter-spacing: var(--traking-n-025);
 }
+
+.headline-medium{
+  font-size: var(--fs-headline-small);
+  line-height: var(--lh-headline-small);
+  font-weight: var(--weight-bold);
+}
+
 
 /*-----------------------------------*\
   #REUSED STYLE
