@@ -217,7 +217,7 @@ body{
 .label-medium{
   font-size: var(--fs-label-medium);
   line-height: var(--lh-label-medium);
-  font-weight: var(--weight-regular);
+  font-weight: var(--weight-semiBold);
 }
 
 
