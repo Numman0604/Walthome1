@@ -202,6 +202,12 @@ body{
   font-weight: var(--weight-semiBold);
 }
 
+.body-large{
+  font-size: var(--fs-body-large);
+  line-height: var(--lh-body-large);
+  font-weight: var(--weight-regular);
+}
+
 
 
 
