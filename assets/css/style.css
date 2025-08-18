@@ -256,6 +256,8 @@ body{
   justify-content: center;
   align-items: center;
   gap: 12px;
+  height: 48px;
+  padding-inline: 24px;
 }
 
 /*-----------------------------------*\
