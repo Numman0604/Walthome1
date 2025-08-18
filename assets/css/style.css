@@ -265,6 +265,7 @@ body{
 
 .btn-fill{
   background-color: var(--primary-100);
+  color: var(--neutral-100);
 }
 
 /*-----------------------------------*\
