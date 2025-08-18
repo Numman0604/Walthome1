@@ -191,8 +191,14 @@ body{
 }
 
 .title-medium{
-  font-size: var(--fs-headline-title);
-  line-height: var(--lh-headline-title);
+  font-size: var(--fs-title-large);
+  line-height: var(--lh-title-medium);
+  font-weight: var(--weight-semiBold);
+}
+
+.title-small{
+  font-size: var(--fs-title-small);
+  line-height: var(--lh-title-small);
   font-weight: var(--weight-semiBold);
 }
 
