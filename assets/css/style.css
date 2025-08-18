@@ -290,6 +290,10 @@ body{
   background-color: var(--primary-100);
 }
 
+.btn-outline:focus{
+  background-color: var(--primary-90);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
