@@ -260,6 +260,7 @@ body{
   padding-inline: 24px;
   border-radius: var(--radius-full);
   max-width: max-content;
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 /*-----------------------------------*\
