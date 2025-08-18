@@ -169,6 +169,7 @@ body{
 .headline-large{
   font-size: var(--fs-headline-large);
   line-height: var(--lh-headline-large);
+  font-weight: var(--weight-bold);
 }
 
 /*-----------------------------------*\
