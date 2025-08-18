@@ -170,6 +170,7 @@ body{
   font-size: var(--fs-headline-large);
   line-height: var(--lh-headline-large);
   font-weight: var(--weight-bold);
+  letter-spacing: var(--traking-n-025);
 }
 
 /*-----------------------------------*\
