@@ -286,6 +286,10 @@ body{
   color: var(--neutral-100);
 }
 
+.btn-outline:hover{
+  background-color: var(--primary-100);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
