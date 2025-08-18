@@ -214,9 +214,9 @@ body{
   font-weight: var(--weight-regular);
 }
 
-.body-small{
-  font-size: var(--fs-body-small);
-  line-height: var(--lh-body-small);
+.label-medium{
+  font-size: var(--fs-label-medium);
+  line-height: var(--lh-label-medium);
   font-weight: var(--weight-regular);
 }
 
