@@ -4,3 +4,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
   $navToggler.addEventListener("click", () => $navbar.classList.toggle("active"));
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+  const $header = document.querySelector("[data-header]");
+
+  window.addEventListener("scroll", () => {
+    $header.classList[window.scrollY > 50 ? "add" : "remove"]("active");
+  });
+});
