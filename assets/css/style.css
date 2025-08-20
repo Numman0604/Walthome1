@@ -303,6 +303,7 @@ body{
   width: 40px;
   display: grid;
   place-items: centre;
+  background-color: var(--neutral-100);
 }
 
 /*-----------------------------------*\
