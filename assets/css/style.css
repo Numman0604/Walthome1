@@ -333,6 +333,7 @@ body{
 
 .header.active{
   animation: slide_in 500ms ease forwards;
+  height: 72px;
 }
 
 /*-----------------------------------*\
