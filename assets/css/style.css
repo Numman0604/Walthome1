@@ -294,6 +294,10 @@ body{
   background-color: var(--primary-90);
 }
 
+.btn-outline:where(:active, :focus-visible){
+  background-color: var(--primary-80);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
