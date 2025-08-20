@@ -354,6 +354,7 @@ body{
 
 .btn-link{
   border-block-start: 1px solid var(--neutral-90);
+  padding-block-start: 14px;
 }
 
 .header{
