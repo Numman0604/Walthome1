@@ -331,6 +331,10 @@ body{
   z-index: 4;
 }
 
+.header.active{
+  animation: slide_in 500ms ease forwards;
+}
+
 /*-----------------------------------*\
   #HERO
 \*-----------------------------------*/
