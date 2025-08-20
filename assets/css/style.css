@@ -343,6 +343,7 @@ body{
 
 .navbar,.navbar-list,.navbar-wrapper{
   display: grid;
+  gap: 8px;
 }
 
 .header{
