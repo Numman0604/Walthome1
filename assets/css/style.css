@@ -305,6 +305,7 @@ body{
   place-items: centre;
   background-color: var(--neutral-100);
   color: var(--neutral-10);
+  border-radius: var(--radius-small);
 }
 
 /*-----------------------------------*\
