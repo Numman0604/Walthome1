@@ -361,6 +361,10 @@ body{
   color: var(--primary-100);
 }
 
+.navbar .btn{
+  min-width: 100%;
+}
+
 .header{
   position: fixed;
   top: 0;
