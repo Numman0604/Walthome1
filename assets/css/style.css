@@ -320,6 +320,9 @@ body{
 
 .navbar{
   position: absolute;
+  top: 85%;
+  right: 16px;
+  background-color: var(--neutral-100);
 }
 
 .header{
