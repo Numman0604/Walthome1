@@ -325,12 +325,12 @@ body{
   background-color: var(--neutral-100);
   min-height: 260px;
   padding: 10px;
+  box-shadow: var(--shadow-1);
   border-radius: var(--radius-large);
   visibility: hidden;
   opacity: 0;
   scale: 0.4;
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
-  box-shadow: var(--shadow-1);
   transform-origin: top right;
   z-index: 4;
 }
