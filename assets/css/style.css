@@ -326,6 +326,8 @@ body{
   min-height: 260px;
   padding: 10px;
   border-radius: var(--radius-large);
+  visibility: hidden;
+  opacity: 0;
 }
 
 .header{
