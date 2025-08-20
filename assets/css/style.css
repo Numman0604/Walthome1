@@ -309,6 +309,10 @@ body{
   box-shadow: var(--shadow-3);
 }
 
+.icon-btn:hover{
+  background-color: var(--neutral-90);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
