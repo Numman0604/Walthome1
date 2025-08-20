@@ -352,6 +352,10 @@ body{
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
+.btn-link{
+  border-block-start: 1px solid var(--neutral-90);
+}
+
 .header{
   position: fixed;
   top: 0;
