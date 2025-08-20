@@ -319,7 +319,7 @@ body{
 \*-----------------------------------*/
 
 .navbar{
-  display: none;
+  position: absolute;
 }
 
 .header{
