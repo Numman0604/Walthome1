@@ -307,6 +307,7 @@ body{
   color: var(--neutral-10);
   border-radius: var(--radius-small);
   box-shadow: var(--shadow-3);
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 .icon-btn:hover{
