@@ -330,6 +330,7 @@ body{
   opacity: 0;
   scale: 0.4;
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
+  box-shadow: var(--shadow-1);
 }
 
 .header{
