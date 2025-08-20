@@ -359,6 +359,11 @@ body{
   display: none;
 }
 
+.nav-toggle-btn .opem,
+.nav-toggle-btn.active .close{
+  display: block;
+}
+
 /*-----------------------------------*\
   #HERO
 \*-----------------------------------*/
