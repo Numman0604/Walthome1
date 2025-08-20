@@ -323,7 +323,7 @@ body{
   top: 85%;
   right: 16px;
   background-color: var(--neutral-100);
-  min-height: 260px;
+  min-width: 260px;
   padding: 10px;
   box-shadow: var(--shadow-1);
   border-radius: var(--radius-large);
