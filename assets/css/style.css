@@ -329,6 +329,7 @@ body{
   visibility: hidden;
   opacity: 0;
   scale: 0.4;
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 .header{
