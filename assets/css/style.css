@@ -348,6 +348,7 @@ body{
 
 .navbar-link,.btn-link{
   color: var(--neutral-30);
+  padding: 6px 12px;
 }
 
 .header{
