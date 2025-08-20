@@ -306,6 +306,7 @@ body{
   background-color: var(--neutral-100);
   color: var(--neutral-10);
   border-radius: var(--radius-small);
+  box-shadow: var(--shadow-3);
 }
 
 /*-----------------------------------*\
