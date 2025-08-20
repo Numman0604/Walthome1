@@ -328,6 +328,7 @@ body{
   border-radius: var(--radius-large);
   visibility: hidden;
   opacity: 0;
+  scale: 0.4;
 }
 
 .header{
