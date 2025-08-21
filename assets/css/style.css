@@ -503,6 +503,7 @@ body{
   right: 0;
   translate: 0 -50%;
   min-height: 100%;
+  pointer-events: none;
 }
 
 /*-----------------------------------*\
