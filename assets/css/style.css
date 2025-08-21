@@ -475,6 +475,10 @@ body{
   color: var(--primary-100);
 }
 
+.search-btn{
+  background: var(--primary-100);
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
