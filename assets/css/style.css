@@ -492,6 +492,10 @@ body{
   background-color: var(--primary-80);
 }
 
+.search-btn:where(:active, :focus-visible){
+  background-color: var(--primary-70);
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
