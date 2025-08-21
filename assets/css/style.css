@@ -477,6 +477,7 @@ body{
 
 .search-btn{
   background: var(--primary-100);
+  color: var(--neutral-100);
 }
 
 /*-----------------------------------*\
