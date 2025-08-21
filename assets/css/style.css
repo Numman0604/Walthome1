@@ -423,6 +423,14 @@ body{
   isolation: isolate;
 }
 
+.hero-title{
+  color: var(--neutral-100);
+}
+
+.hero-text{
+  margin-block: 16px 32px;
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
