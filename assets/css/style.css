@@ -453,6 +453,10 @@ body{
   cursor: pointer;
 }
 
+.search-item .search-item-field:where(:hover, :focus){
+  background-color: var(--neutral-95);
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
