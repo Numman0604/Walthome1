@@ -488,6 +488,10 @@ body{
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
+.search-btn:where(:hover, :focus){
+  background-color: var(--primary-80);
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
