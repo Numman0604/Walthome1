@@ -462,6 +462,16 @@ body{
   pointer-events: none;
 }
 
+.search-item .label{
+  top: 12px;
+  left: 16px;
+  color: var(--neutral-5);
+}
+
+.search-item .material-symbols-rounded{
+  top: 50%;
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
