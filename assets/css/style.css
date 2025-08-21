@@ -431,6 +431,11 @@ body{
   margin-block: 16px 32px;
 }
 
+.search-bar{
+  background: var(--white);
+  display: grid;
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
