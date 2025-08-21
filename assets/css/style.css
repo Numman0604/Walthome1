@@ -434,6 +434,7 @@ body{
 .search-bar{
   background: var(--white);
   display: grid;
+  padding: 8px;
 }
 
 /*-----------------------------------*\
