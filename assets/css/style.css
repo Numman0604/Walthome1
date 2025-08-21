@@ -435,6 +435,8 @@ body{
   background: var(--white);
   display: grid;
   padding: 8px;
+  gap: 8px;
+  border-radius: 16px;
 }
 
 /*-----------------------------------*\
