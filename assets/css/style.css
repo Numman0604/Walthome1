@@ -437,6 +437,7 @@ body{
   padding: 8px;
   gap: 8px;
   border-radius: 16px;
+  box-shadow: var(--shadow-4);
 }
 
 /*-----------------------------------*\
