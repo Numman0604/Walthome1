@@ -450,6 +450,7 @@ body{
   padding: 40px 16px 12px;
   border-radius: var(--radius-medium);
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
+  cursor: pointer;
 }
 
 /*-----------------------------------*\
