@@ -470,6 +470,9 @@ body{
 
 .search-item .material-symbols-rounded{
   top: 50%;
+  right: 16px;
+  translate: 0 -50%;
+  color: var(--primary-100);
 }
 
 /*-----------------------------------*\
