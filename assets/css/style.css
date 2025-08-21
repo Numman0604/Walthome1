@@ -485,6 +485,7 @@ body{
   padding-inline: 24px;
   gap: 12px;
   border-radius: 12px;
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 /*-----------------------------------*\
