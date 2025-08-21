@@ -449,6 +449,7 @@ body{
   height: 76px;
   padding: 40px 16px 12px;
   border-radius: 12px;
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 /*-----------------------------------*\
