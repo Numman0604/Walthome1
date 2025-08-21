@@ -440,6 +440,10 @@ body{
   box-shadow: var(--shadow-4);
 }
 
+.search-item{
+  position: relative;
+}
+
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
