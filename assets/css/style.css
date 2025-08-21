@@ -442,6 +442,7 @@ body{
 
 .search-item{
   position: relative;
+  color: var(--neutral-50);
 }
 
 /*-----------------------------------*\
