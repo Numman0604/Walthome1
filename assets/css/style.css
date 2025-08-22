@@ -254,6 +254,11 @@ body{
   margin-block-end: 32px;
 }
 
+.img-holder{
+  aspect-ratio: var(--width) / var(--height);
+  background-color: var(--neutral-80);
+}
+
 /*-----------------------------------*\
   #COMPONENT
 \*-----------------------------------*/
