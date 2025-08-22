@@ -246,6 +246,10 @@ body{
   margin-inline: auto;
 }
 
+.section{
+  padding-block-end: 60px;
+}
+
 /*-----------------------------------*\
   #COMPONENT
 \*-----------------------------------*/
