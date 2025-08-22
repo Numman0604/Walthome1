@@ -346,6 +346,7 @@ body{
 .card{
   border-radius: var(--radius-large);
   overflow: hidden;
+  box-shadow: var(--shadow-2);
 }
 
 /*-----------------------------------*\
