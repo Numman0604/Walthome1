@@ -337,6 +337,8 @@ body{
   height: 32px;
   min-width: max-content;
   display: grid;
+  place-items: centre;
+  padding: 14px;
 }
 
 /*-----------------------------------*\
