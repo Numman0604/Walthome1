@@ -359,7 +359,7 @@ body{
 }
 
 .card-banner .img-cover{
-  transition: var(--transition-duration-quick) var(--transition-easing-quick);
+  transition: var(--transition-duration-smooth) var(--transition-easing-quick);
 }
 
 /*-----------------------------------*\
