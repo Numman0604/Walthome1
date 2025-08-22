@@ -339,6 +339,7 @@ body{
   display: grid;
   place-items: centre;
   padding: 14px;
+  background-color: var(--secondary-100);
 }
 
 /*-----------------------------------*\
