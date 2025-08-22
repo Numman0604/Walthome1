@@ -354,6 +354,10 @@ body{
   box-shadow: var(--shadow-4);
 }
 
+.card-banner{
+  position: relative;
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
