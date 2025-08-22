@@ -350,6 +350,10 @@ body{
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
+.card:where(:hover, :focus-within){
+  box-shadow: var(--shadow-4);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
