@@ -335,12 +335,12 @@ body{
 
 .badge{
   height: 32px;
-  min-width: max-content;
+  max-width: max-content;
   display: grid;
-  place-items: centre;
-  padding: 14px;
+  place-items: center;
   background-color: var(--secondary-100);
   border-radius: var(--radius-small);
+  box-shadow: var(--shadow-3);
 }
 
 /*-----------------------------------*\
