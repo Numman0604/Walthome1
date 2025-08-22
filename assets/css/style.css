@@ -358,6 +358,10 @@ body{
   position: relative;
 }
 
+.card-banner .img-cover{
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
