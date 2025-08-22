@@ -250,6 +250,10 @@ body{
   padding-block-end: 60px;
 }
 
+.title-wrapper{
+  margin-block-end: 32px;
+}
+
 /*-----------------------------------*\
   #COMPONENT
 \*-----------------------------------*/
