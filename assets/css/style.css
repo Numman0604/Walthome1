@@ -333,6 +333,12 @@ body{
   background-color: var(--neutral-90);
 }
 
+.badge{
+  height: 32px;
+  min-width: max-content;
+  display: grid;
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
