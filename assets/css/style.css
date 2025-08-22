@@ -340,6 +340,7 @@ body{
   place-items: centre;
   padding: 14px;
   background-color: var(--secondary-100);
+  border-radius: var(--radius-small);
 }
 
 /*-----------------------------------*\
