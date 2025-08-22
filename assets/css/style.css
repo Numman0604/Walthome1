@@ -347,6 +347,7 @@ body{
   border-radius: var(--radius-large);
   overflow: hidden;
   box-shadow: var(--shadow-2);
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 /*-----------------------------------*\
