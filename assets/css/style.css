@@ -367,9 +367,9 @@ body{
   rotate: 2deg;
 }
 
-.card:where(.badge, .icon-btn){
+.card :where(.badge, .icon-btn){
   position: absolute;
-  top: 20px;
+  top: 5px;
 }
 
 .card .badge{
