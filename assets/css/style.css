@@ -405,6 +405,8 @@ body{
 .card-title{
   margin-block: 8px;
   color: var(--neutral-20);
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 /*-----------------------------------*\
