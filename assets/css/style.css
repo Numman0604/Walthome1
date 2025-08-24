@@ -384,6 +384,10 @@ body{
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
+.fav-btn{
+  color: var(--error-100);
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
