@@ -419,6 +419,11 @@ body{
   color: var(--neutral-40);
 }
 
+.card-meta-list{
+  padding-block-start: 16px;
+  margin-block-start: 16px;
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
