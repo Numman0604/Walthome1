@@ -419,9 +419,10 @@ body{
   color: var(--neutral-40);
 }
 
-.card-meta-list{
+.meta-card-list{
   padding-block-start: 16px;
   margin-block-start: 16px;
+  border-block-start: 1px solid var(--neutral-90);
 }
 
 /*-----------------------------------*\
