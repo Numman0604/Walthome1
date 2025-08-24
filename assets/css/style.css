@@ -392,6 +392,12 @@ body{
   font-variation-settings: 'FILL' 1;
 }
 
+.card:where(:hover, :focus-within) .icon-btn{
+  scale: 1;
+  opacity: 1;
+  visibility: visible;
+}
+
 /*-----------------------------------*\
   #HEADER
 \*-----------------------------------*/
