@@ -402,7 +402,7 @@ body{
   padding: 20px 20px 24px;
 }
 
-.title-large{
+.card-title{
   margin-block: 8px;
   color: var(--neutral-20);
 }
