@@ -379,6 +379,8 @@ body{
 .card .icon-btn{
   right: 20px;
   opacity: 0;
+  visibility: hidden;
+  scale: 0.8;
 }
 
 /*-----------------------------------*\
