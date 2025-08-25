@@ -425,6 +425,7 @@ body{
   border-block-start: 1px solid var(--neutral-90);
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 /*-----------------------------------*\
