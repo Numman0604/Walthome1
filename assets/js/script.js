@@ -15,5 +15,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  const $TogleBtns = document.querySelectorAll([""])
+  const $TogleBtns = document.querySelectorAll(["data-toggle-btn"])
 } )
