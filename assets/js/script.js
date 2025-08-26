@@ -15,5 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  const $ToggleBtns = document.querySelectorAll(["data-toggle-btn"])
+  const $ToggleBtns = document.querySelectorAll("[data-toggle-btn]")
+  $ToggleBtns.forEach($togglebtn =>{
+    $togglebtn.addEventListener("click", () =>
+      $togglebtn.classList.toggle("active"))
+  })
 } )
