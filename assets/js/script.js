@@ -12,3 +12,8 @@ document.addEventListener("DOMContentLoaded", () => {
     $header.classList[window.scrollY > 50 ? "add" : "remove"]("active");
   });
 });
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const $TogleBtns = document.querySelectorAll([""])
+} )
