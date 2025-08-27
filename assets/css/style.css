@@ -662,6 +662,10 @@ body{
   border-radius: var(--radius-extra-large);
 }
 
+.figure-container{
+  padding: 24px 16px 0;
+}
+
 /*-----------------------------------*\
   #VIDEO
 \*-----------------------------------*/
