@@ -656,7 +656,7 @@ body{
   #FEATURE
 \*-----------------------------------*/
 
-.feature-banner{
+.figure-banner{
   aspect-ratio: 3 / 2;
   overflow: hidden;
   border-radius: var(--radius-extra-large);
