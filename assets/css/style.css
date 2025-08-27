@@ -658,6 +658,7 @@ body{
 
 .feature-banner{
   aspect-ratio: 3 / 2;
+  overflow: hidden;
 }
 
 /*-----------------------------------*\
