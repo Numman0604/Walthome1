@@ -721,7 +721,7 @@ body{
     box-shadow: 0 0 0 0 #ffffff80;
   }
   100%{
-    box-shadow: 0 0 0 0 #ffffff80;
+    box-shadow: 0 0 0 20px #ffffff00;
   }
 }
 
