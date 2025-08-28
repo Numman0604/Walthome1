@@ -676,6 +676,7 @@ body{
 
 .feature-list{
   display: grid;
+  gap: 12px;
 }
 
 /*-----------------------------------*\
