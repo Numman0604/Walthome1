@@ -679,6 +679,11 @@ body{
   gap: 12px;
 }
 
+.feature-item{
+  display: flex;
+  align-items: center;
+}
+
 /*-----------------------------------*\
   #VIDEO
 \*-----------------------------------*/
