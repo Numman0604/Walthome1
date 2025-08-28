@@ -710,6 +710,7 @@ body{
   height: 72px;
   display: grid;
   place-items: center;
+  background-color: var(--neutral-100);
 }
 
 /*-----------------------------------*\
