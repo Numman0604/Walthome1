@@ -670,6 +670,10 @@ body{
   margin-block: 16px;
 }
 
+.feature-text .feature-item{
+  color: var(--neutral-30);
+}
+
 /*-----------------------------------*\
   #VIDEO
 \*-----------------------------------*/
