@@ -701,6 +701,8 @@ body{
   background: url(../images/video-card.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  display: grid;
+  place-items: center;
 }
 
 /*-----------------------------------*\
