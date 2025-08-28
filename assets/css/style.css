@@ -716,6 +716,15 @@ body{
   animation: pulse 1.5s var(--transition-easing-quick) forwards infinite;
 }
 
+@keyframes pulse{
+  0%{
+    box-shadow: 0 0 0 0 #ffffff80;
+  }
+  100%{
+    box-shadow: 0 0 0 0 #ffffff80;
+  }
+}
+
 /*-----------------------------------*\
   #STORY
 \*-----------------------------------*/
