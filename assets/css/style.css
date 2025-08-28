@@ -727,6 +727,7 @@ body{
 
 .play-btn .material-symbols-rounded{
   font-size: 4rem;
+  font-variation-settings: 'FILL' 1;
 }
 
 /*-----------------------------------*\
