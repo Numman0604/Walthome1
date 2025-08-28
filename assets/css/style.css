@@ -697,7 +697,8 @@ body{
 .video-card{
   height: 260px;
   border-radius: 32px;
-  background: linear-gradient(0deg, #0000004D, #0000004d, url('/assets/images/video-card.jpg'));
+  background: linear-gradient(0deg, #0000004D, #0000004d,);
+  background: url(../images/video-card.jpg);
 }
 
 /*-----------------------------------*\
