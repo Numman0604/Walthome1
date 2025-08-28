@@ -666,6 +666,10 @@ body{
   padding: 24px 16px 0;
 }
 
+.figure-container .feature-text{
+  margin-block: 16px;
+}
+
 /*-----------------------------------*\
   #VIDEO
 \*-----------------------------------*/
