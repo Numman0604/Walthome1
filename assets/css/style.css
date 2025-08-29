@@ -839,6 +839,8 @@ body{
 
 .footer-top .container{
   padding-bottom: 60px;
+  display: grid;
+  gap: 24px;
 }
 
 /*-----------------------------------*\
