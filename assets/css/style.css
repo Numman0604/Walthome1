@@ -765,6 +765,7 @@ body{
   display: flex;
   place-items: center;
   background-color: #000000BF;
+  counter-reset: var(--neutral-100);
 }
 
 /*-----------------------------------*\
