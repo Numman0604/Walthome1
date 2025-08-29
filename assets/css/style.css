@@ -823,6 +823,7 @@ body{
 .story-card .card-avatar{
   width: 56px;
   height: 56px;
+  border-radius: var(--radius-circle);
 }
 
 /*-----------------------------------*\
