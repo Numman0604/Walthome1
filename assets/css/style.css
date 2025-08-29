@@ -810,6 +810,10 @@ body{
   margin-block-start: 8px;
 }
 
+.story-card .rating-text{
+  margin-inline-start: 12px;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
