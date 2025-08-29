@@ -873,6 +873,11 @@ body{
   border-block-start: 1px solid var(--neutral-20);
 }
 
+.footer-bottom .container{
+  padding-block: 20px;
+  display: grid;
+}
+
 /*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
