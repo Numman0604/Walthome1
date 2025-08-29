@@ -749,6 +749,7 @@ body{
 .avatar{
   position: relative;
   width: 60px;
+  height: 46px;
 }
 
 /*-----------------------------------*\
