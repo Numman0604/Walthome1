@@ -825,6 +825,7 @@ body{
   height: 56px;
   border-radius: var(--radius-circle);
   box-shadow: var(--shadow-3);
+  overflow: hidden;
 }
 
 /*-----------------------------------*\
