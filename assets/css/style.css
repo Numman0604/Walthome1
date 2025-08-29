@@ -755,6 +755,10 @@ body{
   overflow: hidden;
 }
 
+.avatar:not(:first-child){
+  margin-inline-start: -10px;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
