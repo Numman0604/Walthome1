@@ -786,6 +786,7 @@ body{
   background-position: center;
   border-radius: var(--radius-large);
   overflow: hidden;
+  transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
 /*-----------------------------------*\
