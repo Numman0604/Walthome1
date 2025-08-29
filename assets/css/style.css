@@ -746,6 +746,11 @@ body{
   display: flex;
 }
 
+.avatar{
+  position: relative;
+  width: 60px;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
