@@ -860,6 +860,10 @@ body{
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
+.footer-link:where(:hover,:focus-visible){
+  color: var(--primary-100);
+}
+
 /*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
