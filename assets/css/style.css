@@ -750,6 +750,7 @@ body{
   position: relative;
   width: 60px;
   height: 46px;
+  border-radius: var(--radius-circle);
 }
 
 /*-----------------------------------*\
