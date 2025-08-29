@@ -768,6 +768,11 @@ body{
   color: var(--neutral-100);
 }
 
+.story .title-wrapper{
+  display: grid;
+  gap: 16px;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
