@@ -847,6 +847,10 @@ body{
   margin-block: 16px;
 }
 
+.footer-list-title{
+  margin-block-end: 16px;
+}
+
 /*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
