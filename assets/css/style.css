@@ -869,6 +869,10 @@ body{
   gap: 16px;
 }
 
+.footer-bottom{
+  border-block-start: 1px solid var(--neutral-20);
+}
+
 /*-----------------------------------*\
   #MEDIA QUERIES
 \*-----------------------------------*/
