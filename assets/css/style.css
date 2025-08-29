@@ -785,6 +785,7 @@ body{
   background-size: cover;
   background-position: center;
   border-radius: var(--radius-large);
+  overflow: hidden;
 }
 
 /*-----------------------------------*\
