@@ -793,6 +793,10 @@ body{
   scale: 0.99;
 }
 
+.story-card .overlay-content{
+  position: absolute;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
