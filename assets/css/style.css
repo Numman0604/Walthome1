@@ -789,6 +789,10 @@ body{
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
 }
 
+.story-card:where(:hover, :focus-visible){
+  scale: 0.99;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
