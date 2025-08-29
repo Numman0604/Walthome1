@@ -759,6 +759,10 @@ body{
   margin-inline-start: -10px;
 }
 
+.avatar .overlay-content{
+  position: absolute;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
