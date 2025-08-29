@@ -837,7 +837,9 @@ body{
   color: var(--neutral-90);
 }
 
-.footer-top .container
+.footer-top .container{
+  padding-bottom: 60px;
+}
 
 /*-----------------------------------*\
   #MEDIA QUERIES
