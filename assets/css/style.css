@@ -820,6 +820,11 @@ body{
   color: var(--yellow);
 }
 
+.story-card .card-avatar{
+  width: 56px;
+  height: 56px;
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
