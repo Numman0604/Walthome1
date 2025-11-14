@@ -1,2 +1,2 @@
 # Walthome
-An impressive html and css project
+Estate agency Website using Html CSS and Java script
